@@ -1,0 +1,7 @@
+# Raw EEG recordings remain local; the runnable feature table is included.
+Honors/*
+!Honors/*.pdf
+.venv/
+__pycache__/
+*.pyc
+*.log

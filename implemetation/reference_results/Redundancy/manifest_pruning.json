@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-02-07T17:24:58.168429",
+  "git_commit": "unknown",
+  "n_original_features": 611,
+  "n_selected_features": 322,
+  "threshold": 0.2,
+  "config": {},
+  "intended_use": "BIOMARKER_DISCOVERY_ONLY",
+  "do_not_use_for_classification": true,
+  "riemannian_features_excluded": true
+}

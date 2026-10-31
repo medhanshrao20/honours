@@ -1,0 +1,39 @@
+{
+  "original_copies_identical": true,
+  "feature_table_identical": true,
+  "full_feature_rows": 4496,
+  "subjects": 14,
+  "physiological_features": 611,
+  "reference_pruned": 322,
+  "reference_candidates": 83,
+  "reference_final_biomarkers": 26,
+  "full_cross_modal": {
+    "fold_result_rows": 504,
+    "folds_per_feature_set_and_model": 42,
+    "final_svm_balanced_accuracy": 0.6412456833490198,
+    "final_svm_standard_deviation": 0.1328719031634858,
+    "inherited_feature_lists": true,
+    "discovery_recomputed": false
+  },
+  "full_negative_control": {
+    "result_rows": 168,
+    "subjects": 14
+  },
+  "smoke": {
+    "loso_result_rows": 112,
+    "subjects": 14,
+    "research_results": false,
+    "final_code_hashes_verified": true,
+    "all_six_analysis_stages_completed": true
+  },
+  "raw_preprocessing": {
+    "recording": "audio16_relaxed_raw.fif",
+    "retained_epochs": 5,
+    "channels": 14,
+    "samples_per_epoch": 1536,
+    "common_average_reference": true
+  },
+  "self_check": "passed",
+  "powershell_launcher_audit": "passed",
+  "full_discovery_and_full_fold_local_loso_completed": false
+}

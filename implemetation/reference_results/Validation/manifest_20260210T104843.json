@@ -1,0 +1,9 @@
+{
+  "timestamp": "20260210T104843",
+  "stats_method": "wilcoxon",
+  "n_bootstrap": 1000,
+  "loso_resamples": null,
+  "interpretable_only_no_riem": true,
+  "n_candidates": 83,
+  "n_final": 26
+}
